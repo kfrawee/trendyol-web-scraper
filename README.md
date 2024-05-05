@@ -1,0 +1,1 @@
+# trendyol-web-scraper
